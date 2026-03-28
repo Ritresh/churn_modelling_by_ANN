@@ -434,8 +434,7 @@ Possible improvements for this project include:
 - Cross-validation  
 - Feature importance analysis  
 - Trying additional models (Random Forest, XGBoost)  
-- Deploying the application on Streamlit Cloud or AWS  
-- Adding prediction probability visualization  
+- Deploying the application on Streamlit Cloud or AWS   
 
 ---
 
