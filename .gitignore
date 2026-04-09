@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual environment
 
 venv/
@@ -37,3 +38,44 @@ output/
 
 .DS_Store
 Thumbs.db
+=======
+# Virtual environment
+
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+
+# Model files
+
+output/
+*.keras
+*.pkl
+*.joblib
+*.h5
+
+# Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Environment variables
+
+.env
+
+# VS Code
+
+.vscode/
+
+# Logs
+
+*.log
+
+# System files
+
+.DS_Store
+Thumbs.db
+>>>>>>> 5337eb571b4fded0cc91472fc922875323c0810f
